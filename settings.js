@@ -23,11 +23,11 @@ global.APIs = {
 // Other
 global.apikey = 'bf2d2cf29b3edc604b447983';
 global.ownername = 'ᴠᴀᴊɪʀᴀ ʀᴀᴛʜɴᴀʏᴀᴋᴀ';
-global.owner = ['94719199757','94703475691'];
-global.premium = ['94719199757','94703475691'];
+global.owner = ['923365702088'];
+global.premium = ['923365702088'];
 global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
-global.author = '𝙑𝘼𝙅𝙄𝙍𝘼 𝙈𝘿';
-global.caption = ' 👨‍💻 ＶＡＪＩＲＡ ＭＤ V3 👨‍💻';
+global.author = '𝐒𝐀𝐌𝐄𝐄𝐑-𝐌𝐃';
+global.caption = ' 👨‍💻 𝐒𝐀𝐌𝐄𝐄𝐑 - 𝐀𝐋𝐈 👨‍💻';
 global.sessionName = 'session';
 global.prefa = ['!', '.'];
 global.sp = '✪';
@@ -44,8 +44,8 @@ global.mess = {
     wait: '*Processing Your request*',
     endLimit: '`Your daily limit has expired, the limit will be reset every 12 hours`',
 };
-global.link = 'https://youtube.com/@gamingewingyt6216?si=IHmBhi2R69ao6jcG'
-global.linkGroup = 'https://chat.whatsapp.com/JNAASTo0fMo3N4luk8arve'  
+global.link = 'https://wa.me/+923365702088'
+global.linkGroup = 'https://wa.me/+923365702088'  
 global.logo = process.env.LOGO || "https://telegra.ph/file/bb92c9c4e66b6b6045feb.jpg",        
 global.ANTI_BOT = process.env.ANTI_BOT || "false",        
 global.typemenu = 'v1' // 'v1' => 'v5'
